@@ -1,0 +1,40 @@
+.bg-light {
+    background-color: #ededed;
+    background: linear-gradient(to right, #000201, #646867);
+  }
+  
+  .logo {
+    width: 150px;
+  }
+  
+  .navbar-light .navbar-nav .active > .nav-link,
+  .navbar-light .navbar-nav .nav-link.active,
+  .navbar-light .navbar-nav .nav-link.show,
+  .navbar-light .navbar-nav .show > .nav-link {
+    color: #fff;
+    font-weight: 600;
+    font-size: 1.05rem;
+  }
+  
+  .navbar-light .navbar-brand,
+  .navbar-light .navbar-brand {
+    color: #fff;
+    font-weight: 600;
+    font-size: 1.1;
+    text-transform: uppercase;
+  }
+  
+  .red {
+    color: #fa0000;
+    font-weight: 800;
+  }
+  .blanco{
+    color: $color;
+  }
+  
+  @media (max-width: 768px) {
+    .logo {
+        width: 38%;
+    }
+  }
+  

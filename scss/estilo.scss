@@ -1,0 +1,17 @@
+$letra: medium;
+$tamaño: 100px ;
+$color: #ededed;
+$margin: 15px;
+$pading: 15px;
+$color2:#2C3E50;
+$colornegro:#0000;
+$colornaran:#f77206;
+
+@import "body" ; 
+@import "card" ;
+@import "error" ;
+@import "formulario";
+@import "h2letra";
+@import "nav";
+@import "footer";
+@import "media";

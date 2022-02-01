@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+p{
+    @if $letra == chica{
+        font-size: 0.7rem;
+    }@else if $letra == medium{
+        font-size: 1.2rem;
+    }@else if $letra == large{
+        font-size: 2rem;
+    }@else{
+        font-size: 3rem;
+    }
+}
+body{
+    background-color: $color;
+    background: -webkit-linear-gradient(to right, #0a0e06, #050e01);
+    background: linear-gradient(to right, #000201, rgb(100, 104, 103)); 
+}
