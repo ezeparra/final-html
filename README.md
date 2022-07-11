@@ -16,5 +16,5 @@ Realizado en GitHub Pagues para acceso directohttps://ezeparra.github.io/final-h
 #🚀About Me
  Estudiante de carrera de Front-End Developer en CoderHouse. De Cordoba, Argentina. Adquiriendo conocimientos con ansias de incursionar en el mundo IT.
  
- Authors
+ # Authors
 @ezeparra
