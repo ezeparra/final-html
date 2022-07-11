@@ -10,5 +10,11 @@ El proyecto consiste en la implementación de una aplicación web que represen
 
 HTML CSS Javascript  Git/GitHub VSC Boostrap  Adobe Photoshop SEO Sass
 
+#Deployment
+Realizado en GitHub Pagues para acceso directohttps://ezeparra.github.io/final-html/ 👈 👈 (accede desde aqui)
+
 #🚀About Me
  Estudiante de carrera de Front-End Developer en CoderHouse. De Cordoba, Argentina. Adquiriendo conocimientos con ansias de incursionar en el mundo IT.
+ 
+ Authors
+@ezeparra
